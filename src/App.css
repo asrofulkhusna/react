@@ -1,33 +1,48 @@
-.App {
+.judul{
   text-align: center;
+  color: teal;
+  font-family: 'Anton', sans-serif;
+  font-weight: 800px;
+  margin-top: 20px;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.card{
+  margin-bottom: 5px;
+  background: whitesmoke;
+  border-radius: 10px;
+  width: 50%; 
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.chat{
+  font-family: 'Lobster', cursive;
 }
 
-.App-link {
-  color: #61dafb;
+.chat1{
+  font-family: 'Lobster', cursive;
+  text-align: right;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.headjumbot{
+  background: whitesmoke;
+  margin-bottom: 15px;
+}
+
+.jumbot{
+  font-family: 'Lobster', cursive;
+}
+
+.foto{
+  margin-left: 80%;
+  position: absolute;
+  margin-top: -160px;
+}
+
+.imagee{
+  border-radius: 15px;
+  margin-left: 50px;
+}
+
+.body{
+  /* background: rgb(209, 213, 233); */
+
 }

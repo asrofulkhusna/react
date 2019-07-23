@@ -1,0 +1,21 @@
+.navb{
+    margin-bottom: 10px;
+    width: 100%;
+    margin-top: -40px;
+}
+
+Link{
+    color: white;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: cyan;
+}
+
+.btnLogout{
+    color: white;
+}
